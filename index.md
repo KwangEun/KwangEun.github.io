@@ -1,6 +1,6 @@
 A Personal Blog of Study Marials 
 
-# Lectures
+# Study Materials
 ## Machine Learning
 ### Lectures
 * Chip Huyen, **Tensorflow for Deep Learning Research**, [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)
@@ -12,3 +12,12 @@ A Personal Blog of Study Marials
 * Roger Grosse, **Intro to Neural Network and Machine Learning**, [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * Chirstoper Manning, Richard Socher, **Natural Language Processing with Deep Learning**, [https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * Sergey Levine, **CS 294 Deep Reinforcement Learning, Fall 2017**, [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
+
+### Papers
+* 
+
+## Computer Science
+### Lectures
+* David J. Malan, **This is CS50**, [http://cs50.tv/2016/fall/](http://cs50.tv/2016/fall/)
+
+
