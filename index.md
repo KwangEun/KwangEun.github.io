@@ -1,5 +1,3 @@
-A Personal Blog of Study Marials 
-
 # Study Materials
 ## Machine Learning 
 ### Lectures
@@ -9,7 +7,7 @@ A Personal Blog of Study Marials
 * Geoffrey Hinton, **Neual Networks for Machine Learning**, [https://www.coursera.org/learn/neural-networks](https://www.coursera.org/learn/neural-networks)
 * Tom Mitchell, **Machine Learning**, [http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 * Roger Grosse, **Intro to Neural Network and Machine Learning**, [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
-* Chirstoper Manning, Richard Socher, **Natural Language Processing with Deep Learning**, [https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* Nando de Freitas, **Machine Learning: 2014-2015**, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 ## Artifical Intelligence
 ### Lecture
@@ -22,7 +20,7 @@ A Personal Blog of Study Marials
 
 ## Natural Language
 ### Lecture
-* Nando de Freitas, **Machine Learning: 2014-2015**, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* Chirstoper Manning, Richard Socher, **Natural Language Processing with Deep Learning**, [https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ## Reinforcement Learning
 ### Lecture
