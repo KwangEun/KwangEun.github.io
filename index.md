@@ -33,15 +33,16 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 * KwangEun An, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE) - ST10: Deep Learning in CE (DCE), 2018
 
 ## Personal Studies
+
 [Machine Learning](./Study/Machine_Learning/main.md)
 
 ## Current Projects
 
-**Image Labeling System** [[Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies](./Study/Image_Labeling_System/main.md)]
+**Image Labeling System** [[Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies(En)](./Study/Image_Labeling_System/main.md)]
 
 Jan/2018 as **Developer of Deep Nerual Network & Git Repository Gardner**
 
-**Pothole Detection System using Artificial Intelligence** [[Studies](./Study/Pothole_Detection_System/main.md)]
+**Pothole Detection System using Artificial Intelligence** [[Studies(En)](./Study/Pothole_Detection_System/main.md)]
 
 Dec/2017 as **Developer in Artifical Intelligence**
 
