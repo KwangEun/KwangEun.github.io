@@ -37,7 +37,7 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ## Current Projects
 
-**Image Labeling System** [GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project) [Studies](./Study/Image_Labeling_System_Study/main.md)
+**Image Labeling System** [Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project) [Studies](./Study/Image_Labeling_System_Study/main.md)
 
 Jan/2018 as **Developer of Deep Nerual Network & Git Repository Gardner**
 
