@@ -143,7 +143,7 @@ Oct/2014 ~ Dec/2014 as **Project Leader**, **Lead Developer**
 
 Oct/2015 as **Project Leader**, **Lead Developer**
 
-**Ruuning a Linux Operating System on USB**
+**Ruuning a Linux Operating System on USB Stick Memory**
 
 June/2015 ~ Oct/2015 as **Project Leader**, **Kernel Developer**
 
