@@ -16,7 +16,7 @@ Tel : (+82) 053 850 2740
 
 ## Short Descriptions
 
-KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU.
+KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
@@ -37,11 +37,11 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ## Current Projects
 
-**Image Labeling System** [Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project) [Studies](./Study/Image_Labeling_System_Study/main.md)
+**Image Labeling System** [[Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies](./Study/Image_Labeling_System_Study/main.md)]
 
 Jan/2018 as **Developer of Deep Nerual Network & Git Repository Gardner**
 
-**Pothole Detection System using Artificial Intelligence** [Studies](./Study/Pothole Detection System/main.md)
+**Pothole Detection System using Artificial Intelligence** [[Studies](./Study/Pothole Detection System/main.md)]
 
 Dec/2017 as **Developer in Artifical Intelligence**
 
