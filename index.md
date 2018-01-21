@@ -16,7 +16,7 @@ Tel : (+82) 053 850 2740
 
 ## Short Descriptions
 
-KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
+KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he served as Senior Project Manager in one of the Hacker group(It is not an official :( ) in South Korea for 2006-2011 and worked part-time for the [LeadingI](http://www.leadingi21.com/) as engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
