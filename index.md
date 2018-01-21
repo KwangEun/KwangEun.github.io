@@ -37,11 +37,11 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ## Current Projects
 
-**Image Labeling System** [[Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies](./Study/Image_Labeling_System_Study/main.md)]
+**Image Labeling System** [[Project Official Codes on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies](./Study/Image_Labeling_System/main.md)]
 
 Jan/2018 as **Developer of Deep Nerual Network & Git Repository Gardner**
 
-**Pothole Detection System using Artificial Intelligence** [[Studies](./Study/Pothole Detection System/main.md)]
+**Pothole Detection System using Artificial Intelligence** [[Studies](./Study/Pothole_Detection_System/main.md)]
 
 Dec/2017 as **Developer in Artifical Intelligence**
 
