@@ -54,11 +54,11 @@ Dec/2017 as **Developer in Artifical Intelligence**
 
 **Making of Win32 Decomplier**
 
-Jan/2006 ~ June/2006 as **Reverse Engineer**
+Jan/2006 ~ Jun/2006 as **Reverse Engineer**
 
 **Analysis of PlayStation Network**
 
-July/2006 ~ Nov/2006 as **Network Analyser**
+Jul/2006 ~ Nov/2006 as **Network Analyser**
 
 ----
 
@@ -66,11 +66,11 @@ July/2006 ~ Nov/2006 as **Network Analyser**
 
 **Wireless Hacking using Multiple Wireless Cards**
 
-Feb/2007 ~ June/2007 as **Junior Developer**
+Feb/2007 ~ Jun/2007 as **Junior Developer**
 
 **Latency-Zero Wireless Hijacking on Numerous Connected Wireless Environment**
 
-July/2007 ~ Nov/2007 as **Senior Developer**
+Jul/2007 ~ Nov/2007 as **Senior Developer**
 
 ----
 
@@ -78,11 +78,7 @@ July/2007 ~ Nov/2007 as **Senior Developer**
 
 **Effective Wireless Hijacking using A Single Laptop**
 
-July/2008 ~ Nov/2008 as **Project Leader**
-
-**Kartail(카르테일); Visual Novel Game**
-
-July/2008 ~ Sep/2008 as **Game Programmer**
+Jul/2008 ~ Nov/2008 as **Project Leader**
 
 ----
 
@@ -90,23 +86,23 @@ July/2008 ~ Sep/2008 as **Game Programmer**
 
 **Wireless Hijacking using a Mobile**
 
-Feb/2010 ~ June/2010 as **Project Manager**, **Lead Developer**
+Feb/2010 ~ Jun/2010 as **Project Manager**, **Lead Developer**
 
 **Network Traffic Analysis Program**
 
-Feb/2010 ~ June/2010 as **Project Manager**
+Feb/2010 ~ Jun/2010 as **Project Manager**
 
 **Web-content Source Code Vulnerability Analyzer**
 
-Feb/2010 ~ June/2010 as **Project Manager**
+Feb/2010 ~ Jun/2010 as **Project Manager**
 
 **Auto Web-content Crawler for Massive Content Analyzer**
 
-July/2010 ~ Nov/2010 as **Project Manager**, **Senior Developer**
+Jul/2010 ~ Nov/2010 as **Project Manager**, **Senior Developer**
 
 **Research for Security Sofware Development Guide**
 
-July/2010 ~ Nov/2010 as **Researcher**
+Jul/2010 ~ Nov/2010 as **Researcher**
 
 ----
 
@@ -114,15 +110,19 @@ July/2010 ~ Nov/2010 as **Researcher**
 
 **Fine-Tuning for Bit-wise operation in C**
 
-Feb/2011 ~ June/2011 as **Researcher**
+Feb/2011 ~ Jun/2011 as **Researcher**
 
 **Acclerating the Wireless Hijacking with a Single Wireless Card**
 
-Feb/2011 ~ June/2011 as **Project Manager**, **Senior Developer**
+Feb/2011 ~ Jun/2011 as **Project Manager**, **Senior Developer**
 
 **Reverse Engineering of a Mobile Game**
 
-Feb/2011 ~ June/2011 as **Project Manager**
+Feb/2011 ~ Jun/2011 as **Project Manager**
+
+**Kartail(카르테일); Visual Novel Game** [[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
+
+Jun/2011 ~ Aug/2011 as **Game Programmer**
 
 ----
 
@@ -146,7 +146,7 @@ Oct/2015 as **Project Leader**, **Lead Developer**
 
 **Ruuning a Linux Operating System on USB Stick Memory**
 
-June/2015 ~ Oct/2015 as **Project Leader**, **Kernel Developer**
+Jun/2015 ~ Oct/2015 as **Project Leader**, **Kernel Developer**
 
 ----
 
@@ -154,11 +154,11 @@ June/2015 ~ Oct/2015 as **Project Leader**, **Kernel Developer**
 
 **IoT based Pedestrian Protection System on Public Road**
 
-April/2016 ~ Dec/2016 as **Project Leader**, **Lead Developer**
+Apr/2016 ~ Dec/2016 as **Project Leader**, **Lead Developer**
 
 **Smart Planting**
 
-April/2016 ~ Dec/2016 as **Web Programmer**
+Apr/2016 ~ Dec/2016 as **Web Programmer**
 
 ----
 
