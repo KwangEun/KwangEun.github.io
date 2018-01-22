@@ -22,21 +22,15 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ## Published Papers
 
-### Conferences
+* __**KwangEun An**__, Jae-Young Park, Han-Na Park, Dongmahn Seo, **"A Study on use case in USB OS"**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct 2015.
 
-* KwangEun An, Jae-Young Park, Han-Na Park, Dongmahn Seo, **"A Study on use case in USB OS"**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct 2015.
+* __**KwangEun An**__, Dongmahn Seo, **"A Case Study of USB OS Usage Problems"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, April 2016.
 
-* KwangEun An, Dongmahn Seo, **"A Case Study of USB OS Usage Problems"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, April 2016.
+* __**KwangEun An**__, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **"Smart Crosswalk System using IoT"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, April 2016.
 
-* KwangEun An, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **"Smart Crosswalk System using IoT"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, April 2016.
+* __**KwangEun An**__, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **"Smart Crossing System Using IoT"**, 2017 IEEE International Conference on Consumer Electronics (ICCE) - CT08: Internet of Things and Internet of Everywhere, 2017
 
-* KwangEun An, SungWon Lee, Young Ju Jeong, Min Woo Lee, Deuk Hee Lee, Dongmahn Seo, **"A Study of Object Detection in Crosswalk Area using Smart Crosswalk System"**, 2016 Winter Conference on Korea Information Processing Society, pp. 1498-1500, Dec 2016.
-
-* KwangEun An, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **"Smart Crossing System Using IoT"**, 2017 IEEE International Conference on Consumer Electronics (ICCE) - CT08: Internet of Things and Internet of Everywhere, 2017.
-
-* KwangEun An, Sung Won Lee, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **"Smartphone-based Pothole Detecting System using MobileNet Deep Convolutional Neural Network"**, Korea Software Congress 2017, Korea Information Processing Society, pp. 901-903, 2017.
-
-* KwangEun An, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE) - ST10: Deep Learning in CE (DCE), 2018
+* __**KwangEun An**__, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE) - ST10: Deep Learning in CE (DCE), 2018
 
 ----
 
