@@ -16,11 +16,13 @@ Tel : (+82) 053 850 2740
 
 ## Short Descriptions
 
-KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he served as Senior Project Manager in one of the Hacker group(It is not an official :( ) in South Korea for 2006-2011 and worked part-time for the [LeadingI](http://www.leadingi21.com/) as engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
+KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he served as Senior Project Manager in one of the Hacker group(It is not an official :( ) in South Korea for 2006-2011 and worked part-time for the [LeadingI](http://www.leadingi21.com/) as an engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
 ## Published Papers
+
+### Conferences
 
 * KwangEun An, Jae-Young Park, Han-Na Park, Dongmahn Seo, **"A Study on use case in USB OS"**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct 2015.
 
@@ -28,9 +30,19 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 * KwangEun An, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **"Smart Crosswalk System using IoT"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, April 2016.
 
-* KwangEun An, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **"Smart Crossing System Using IoT"**, 2017 IEEE International Conference on Consumer Electronics (ICCE) - CT08: Internet of Things and Internet of Everywhere, 2017
+* KwangEun An, SungWon Lee, Young Ju Jeong, Min Woo Lee, Deuk Hee Lee, Dongmahn Seo, **"A Study of Object Detection in Crosswalk Area using Smart Crosswalk System"**, 2016 Winter Conference on Korea Information Processing Society, pp. 1498-1500, Dec 2016.
+
+* KwangEun An, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **"Smart Crossing System Using IoT"**, 2017 IEEE International Conference on Consumer Electronics (ICCE) - CT08: Internet of Things and Internet of Everywhere, 2017.
+
+* KwangEun An, Sung Won Lee, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **"Smartphone-based Pothole Detecting System using MobileNet Deep Convolutional Neural Network"**, Korea Software Congress 2017, Korea Information Processing Society, pp. 901-903, 2017.
 
 * KwangEun An, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE) - ST10: Deep Learning in CE (DCE), 2018
+
+----
+
+### Journals
+
+
 
 ## Personal Studies
 
@@ -120,9 +132,11 @@ Feb/2011 ~ Jun/2011 as **Project Manager**, **Senior Developer**
 
 Feb/2011 ~ Jun/2011 as **Project Manager**
 
-**Kartail(카르테일); Visual Novel Game** [[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
+**Kartail(카르테일); Visual Novel Game** 
 
 Jun/2011 ~ Aug/2011 as **Game Programmer**
+
+[[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
 
 ----
 
