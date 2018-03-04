@@ -1,5 +1,7 @@
 # Image_Labeling_System
 
+으아아 안되겠어요 .. 논문을 글로 좀 요약정리 해둬야겠어요... 자꾸 잊어머거요.. ㅠㅛㅠ
+
 ## Papers on Reading
 
 * Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath, "[A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866)", arXiv:1708.05866v2 [cs.LG], Sep 2017.
