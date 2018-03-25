@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vertical Carousal jQuery Plugin Demo</title>
+<link rel="stylesheet" href="resource/css/vertical_carousal.min.css">
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="resource/js/vertical_carousal.min.js"></script>
+<style>
+    html, body, #myVerticalCarousel {
+        height: 100%;
+        margin: 0;
+    }
+
+    .item {
+        text-align: center;
+    }
+
+    #first {
+        background: url("resource/imgs/main_background.jpg");
+        background-size: cover;
+    }
+
+    #second {
+        background: url("resource/imgs/pg2_background.jpg");
+        background-size: cover;
+    }
+
+    #third {
+        background: url("resource/imgs/pg3_background.jpg");
+        background-size: cover;
+    }
+    #tdcenter{
+        background: url("resource/imgs/main_menu_center.png");
+        background-size: 100% 100%;
+        background-position-x: center;
+        background-position-y: center;
+        height: 310px;
+        width: 70%;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    p, span {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    span {
+        height: 100%;
+    }
+
+    p {
+        color: #fff;
+        font-size: 3em;
+    }
+</style>
+</head>
+<body>
+<div id="myVerticalCarousel" class="vertical-carousel" data-urlLock="false" data-rests-indicators="#navbar-collapse li">
+    <ol class="vertical-carousel-indicators hidden-xs">
+        <li data-target="#myVerticalCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myVerticalCarousel" data-slide-to="1"></li>
+        <li data-target="#myVerticalCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="vertical-carousel-box">
+        <div id="first" class="item active">
+            
+            <table>
+                <tr>
+                    <td><p>꿈을</p>
+                    </td>
+                    <td rowspan="2">
+                        <center>
+                        <div id="tdcenter">
+                            <img src="resource/imgs/main_whale.gif" width="60%" style="z-index: -1;">
+                        </div>
+                    </center>
+                    </td>
+                    <td><p>쓰다</p></td>
+                </tr>
+                <tr>
+                    <td><img src="resource/imgs/main_menu_side.png" width="60%"></td>
+                    <td><img src="resource/imgs/main_menu_side.png" width="60%"></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><img src="resource/imgs/main_mountain.png" width="100%"></td>
+                </tr>
+                   
+            </table>
+            <span></span> 
+        </div>
+        <div id="second" class="item">
+            <span></span>
+            <p>Second page</p>
+        </div>
+        <div id="third" class="item">
+            <span></span>
+            <p>Third page</p>
+        </div>
+    </div>
+</div>
+
+</div>
+</body>
+
+
+</html>
