@@ -20,135 +20,25 @@ KwangEun An(안광은) is a Student in Major of [Computer Information Communicat
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
-## Current Projects
+## Projects
 
-**Image Labeling System** [[Project on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)] [[Studies(En)](./Study/Image_Labeling_System/main.md)]
+### 2018
 
-Jan/2018 as **Developer of Deep Nerual Network & Git Repository Gardner**
+**Pothole Detection System using Artificial Intelligence (5/5)** 
 
-(Under contest) **Pothole Detection System using Artificial Intelligence (5/5)**
+Supported & Funded by Pothole-Free Road Pavement Management System Development in Korea Institute of Civil Engineering and Building Technology
 
-Dec/2017 as **Developer in Artifical Intelligence**
+Apr/2018 ~ CURRENT as **Programmer in Artifical Intelligence & Feature-based Detection**
 
-(Under contest) **Pothole Detection System using Artificial Intelligence on Flying Drone (1/5)"**
+**드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발** 
 
- as **Developer in Artificial Intelligence**
+Supported & Funded by Korea Institute of Civil Engineering and Building Technology
 
-## Past Projects
+Jun/2018 ~ CURRENT as **Programmer in Artifical Intelligence & Feature-based Detection**
 
-----
+**지도학습을 위한 이미지 라벨링 시스템** [[Project on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)]
 
-### 2006
-
-**Making of Win32 Decomplier**
-
-Jan/2006 ~ Jun/2006 as **Reverse Engineer**
-
-**Analysis of PlayStation Network**
-
-Jul/2006 ~ Nov/2006 as **Network Analyser**
-
-----
-
-### 2007
-
-**Wireless Hacking using Multiple Wireless Cards**
-
-Feb/2007 ~ Jun/2007 as **Junior Developer**
-
-**Latency-Zero Wireless Hijacking on Numerous Connected Wireless Environment**
-
-Jul/2007 ~ Nov/2007 as **Senior Developer**
-
-----
-
-### 2008
-
-**Effective Wireless Hijacking using A Single Laptop**
-
-Jul/2008 ~ Nov/2008 as **Project Leader**
-
-----
-
-### 2010
-
-**Wireless Hijacking using a Mobile**
-
-Feb/2010 ~ Jun/2010 as **Project Manager**, **Lead Developer**
-
-**Network Traffic Analysis Program**
-
-Feb/2010 ~ Jun/2010 as **Project Manager**
-
-**Web-content Source Code Vulnerability Analyzer**
-
-Feb/2010 ~ Jun/2010 as **Project Manager**
-
-**Auto Web-content Crawler for Massive Content Analyzer**
-
-Jul/2010 ~ Nov/2010 as **Project Manager**, **Senior Developer**
-
-**Research for Security Sofware Development Guide**
-
-Jul/2010 ~ Nov/2010 as **Researcher**
-
-----
-
-### 2011
-
-**Fine-Tuning for Bit-wise operation in C**
-
-Feb/2011 ~ Jun/2011 as **Researcher**
-
-**Acclerating the Wireless Hijacking with a Single Wireless Card**
-
-Feb/2011 ~ Jun/2011 as **Project Manager**, **Senior Developer**
-
-**Reverse Engineering of a Mobile Game**
-
-Feb/2011 ~ Jun/2011 as **Project Manager**
-
-**Kartail(카르테일); Visual Novel Game** 
-
-Jun/2011 ~ Aug/2011 as **Game Programmer**
-
-[[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
-
-----
-
-### 2014
-
-**Game Competition: 2015 Imagine Cup**
-
-Oct/2014 ~ Dec/2014 as **Project Leader**, **Lead Game Developer**
-
-**Innovation Competition: 2015 Imagine Cup**
-
-Oct/2014 ~ Dec/2014 as **Project Leader**, **Lead Developer**
-
-----
-
-### 2015
-
-**Global Inovation Festa 2015**
-
-Oct/2015 as **Project Leader**, **Lead Developer**
-
-**Ruuning a Linux Operating System on USB Stick Memory**
-
-Jun/2015 ~ Oct/2015 as **Project Leader**, **Kernel Developer**
-
-----
-
-### 2016
-
-**IoT based Pedestrian Protection System on Public Road**
-
-Apr/2016 ~ Dec/2016 as **Project Leader**, **Lead Developer**
-
-**Smart Planting**
-
-Apr/2016 ~ Dec/2016 as **Web Programmer**
+Jan/2018 ~ Jun/2018 as **Project Leader & Programmer in Artificial Intelligence**
 
 ----
 
@@ -162,17 +52,55 @@ Jan/2017 ~ Sep/2017 as **Programmer in Artifical Intelligence & Feature-based De
 
 ----
 
+### 2016
+
+**IoT based Pedestrian Protection System on Public Road**
+
+Apr/2016 ~ Dec/2016 as **Project Leader & Lead Developer**
+
+**Smart Planting**
+
+Apr/2016 ~ Dec/2016 as **Web Programmer**
+
+----
+
+### 2015
+
+**Global Inovation Festa 2015**
+
+Oct/2015 as **Project Leader & Lead Developer**
+
+**Ruuning a Linux Operating System on USB Stick Memory**
+
+Jun/2015 ~ Oct/2015 as **Project Leader & Kernel Developer**
+
+----
+
+### 2011
+
+**Kartail(카르테일); Visual Novel Game** 
+
+Jun/2011 ~ Aug/2011 as **Game Programmer**
+
+[[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
+
 ## Published Papers
 
 ### 2018
 
-(SCOPUS) __**KwangEun An**__, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, **"Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking"**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
+* __**KwangEun An**__, Jeong Han, Minyoung Lee, Dongmahn Seo, **"An Image Labelling System using Reinforcement Learning based on Imitating Multi-User Actions"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+
+* Jeong Han, Minyoung Lee, __**KwangEun An**__, Dongmahn Seo, **"Image Collecting and User Cooperative Tagging System for Supervised Learning with Convolutional Neural Network"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+
+* SungWon Lee, __**Kwang Eun An**__, Young Ju Jeong, Seok Jin Kim, Seung-Ki Ryu, Dongmahn Seo, **"A Proposal of a Real-time Pothole Detection System based on Machine Learning and Computer Vision"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+
+* (SCOPUS) __**KwangEun An**__, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, **"Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking"**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
 
 * __**KwangEun An**__, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 488-489, 12 Jan, 2018.
 
-SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **"Image Processing-based Pothole Detecting System for Driving Environment"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 513-514, 12 Jan, 2018.
+* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **"Image Processing-based Pothole Detecting System for Driving Environment"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 513-514, 12 Jan, 2018.
 
-Young Ju Jeong, __**Kwang Eun An**__, Sung Won Lee, Dongmahn Seo, **"Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 775-776, 12 Jan, 2018.
+* Young Ju Jeong, __**Kwang Eun An**__, Sung Won Lee, Dongmahn Seo, **"Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 775-776, 12 Jan, 2018.
 
 ### 2017
 
