@@ -1,129 +1,142 @@
 # Biography
 
-![Selfi!!!](./resources/selfi.jpg)
+## Contacts
 
-**Address:**
+----
 
-(38430) 521-1, Colleage of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea
-
-**Contacts:**
-
-email : [yooer10ms@cu.ac.kr](mailto:yooer10ms@cu.ac.kr)
+email : [kwangeuna@gmail.com](mailto:kwangeuna@gmail.com) 
 
 mobile : (+82) 010 2647 3007
 
-Tel : (+82) 053 850 2740
+Address : (38430) 521-1, Colleage of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea
 
-## Short Descriptions
+## Infos
+
+----
 
 KwangEun An(안광은) is a Student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) and the faculty Assistant at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he served as Senior Project Manager in one of the Hacker group(It is not maintained anymore :( ) in South Korea for 2006-2011 and worked part-time for the [LeadingI](http://www.leadingi21.com/) as an engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
-## Projects
-
-### 2018
-
-**Pothole Detection System using Artificial Intelligence (5/5)** 
-
-Supported & Funded by Pothole-Free Road Pavement Management System Development in Korea Institute of Civil Engineering and Building Technology
-
-Apr/2018 ~ CURRENT as **Programmer in Artifical Intelligence & Feature-based Detection**
-
-**드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발** 
-
-Supported & Funded by Korea Institute of Civil Engineering and Building Technology
-
-Jun/2018 ~ CURRENT as **Programmer in Artifical Intelligence & Feature-based Detection**
-
-**지도학습을 위한 이미지 라벨링 시스템** [[Project on GitHub](https://github.com/CUDSnSLab/Image-Labeling-Project)]
-
-Jan/2018 ~ Jun/2018 as **Project Leader & Programmer in Artificial Intelligence**
+## Education
 
 ----
 
-### 2017
+M.Sc., Daegu Catholic University, Department of Computer Information and Communications, 2019.
+B.Sc., Daegu Catholic University, Major of Information Communication Convergence in School of Information Technolofy, 2017.
 
-**Pothole Detection System using Artificial Intelligence (4/5)** 
-
-Supported & Funded by Pothole-Free Road Pavement Management System Development in  Korea Institute of Civil Engineering and Building Technology
-
-Jan/2017 ~ Sep/2017 as **Programmer in Artifical Intelligence & Feature-based Detection**
+## Licenses
 
 ----
 
-### 2016
+* Engineer Informatino Processing, 15th Jul. 2016
+* Linux Master Class 2, 13th Sep. 2014
 
-**IoT based Pedestrian Protection System on Public Road**
-
-Apr/2016 ~ Dec/2016 as **Project Leader & Lead Developer**
-
-**Smart Planting**
-
-Apr/2016 ~ Dec/2016 as **Web Programmer**
+## Awards and Honors
 
 ----
 
-### 2015
+* Encourage Prize, Undergraduated Paper Competition by Korea Institute of Information Scientests and Engineers, 3th Nov. 2017.
+* Encourage Prize, Daegu Catholic University Exhibition, 29th Nov. 2016.
+* Excellence award, ICT Mentoring, 26th Nov. 2016.
+* Encourage Prize, Undergraduated Paper Competition by Korea Institute of Information Scientests and Engineers, 29th Apr. 2016.
+* Winning, 2016 Hanium Competition, 2016.
+* Encourage Prize, Undergraduated Paper Competition 2015 by Korea Information Processing Society Spring Conference, 2015.
 
-**Global Inovation Festa 2015**
-
-Oct/2015 as **Project Leader & Lead Developer**
-
-**Ruuning a Linux Operating System on USB Stick Memory**
-
-Jun/2015 ~ Oct/2015 as **Project Leader & Kernel Developer**
+## Experiences
 
 ----
 
-### 2011
+### Skills
 
-**Kartail(카르테일); Visual Novel Game** 
+* Image processing using OpenCV with C++, Python
 
-Jun/2011 ~ Aug/2011 as **Game Programmer**
+* Convolutional Neural Network using Tensorflow with Python
 
-[[YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8)], [[YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg)], [[YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM)], [[YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU)]
+* 
+
+### Workings
+
+* Faculty Assistant at Daegu Catholic University, Sep. 2017 ~ Feb. 2018.
+* Faculty Assistant at Daegu Catholic University, Mar. 2018 ~ Aug. 2018.
+* Former Unit Supply Sergent at Republic of Korea Army(R.O.K.A) 28th Infantry Division 'Invincible Typhoon', Jun. 2012 ~ Mar. 2014.
+
+### Project
+
+#### Officials
+
+* **Research of Deep Learning Pothole Detection Code Analysis**, Pothole-Free Road Pavement Management System Development (5/5), 1st May. 2018 ~ 31th Oct. 2018. Supported & Funded by Pothole-Free Road Pavement Management System Development throught Korea Institute of Civil Engineering and Building Technology.
+
+* **Development of Drone-Based Technology for Efficient Maintenace of Cutting Slope and Pavement (1/3)**, Apr. 2018 ~ Dec. 2018. Cooperation with Korea Institute of Civil Engineering and Building Technology. Funded by Transportation & Logistics Division in Korea Agency for Infrastructure Techology Advancement.
+
+* **Deep Learning Pothole Detection Program Development**, Pothole-Free Road Pavement Management System Development (4/5), 1st Jul. 2017 ~ 30th Sep. 2017. Supported & Funded by Pothole-Free Road Pavement Management System Development through Korea Institute of Civil Engineering and Building Technology.
+
+* **Outdoor Solar Panel Failure detection**, 1st Aug. 2017 ~ 16th Mar. 2018. Funded by (주)한남전기통신공사.
+
+* **개인용 통합 스토리지 서비스 시스템 연구**, National Research Foundation of Korea, 1st Jul. 2015 ~ 30th Jun. 2018. Funded by the Ministry of Science, ICT & Future Planning.
+
+#### Unofficials
+
+* **IoT based Pedestrian Protection System on Public Road**, Apr. 2016 ~ Dec. 2016.
+
+* **Smart Planting**, Apr. 2016 ~ Dec. 2016.
+
+* **Linux Operating System on USB Stick Memory**, Jun. 2015 ~ Oct. 2015.
+
+* **Kartail-Visual Novel Game**, Jun. 2011 ~ Aug. 2011. [YouTube - Openning(上)](https://www.youtube.com/watch?v=su_-6fzBao8), [YouTube - Openning(下)](https://www.youtube.com/watch?v=JHB9AFGkKsg), [YouTube - Ending(上)](https://www.youtube.com/watch?v=C9ZJJhLiTmM), [YouTube - Ending(下)](https://www.youtube.com/watch?v=cOxU9SLwFIU).
 
 ## Published Papers
 
-### 2018
+----
 
-* __**KwangEun An**__, Jeong Han, Minyoung Lee, Dongmahn Seo, **"An Image Labelling System using Reinforcement Learning based on Imitating Multi-User Actions"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+### Journals
 
-* Jeong Han, Minyoung Lee, __**KwangEun An**__, Dongmahn Seo, **"Image Collecting and User Cooperative Tagging System for Supervised Learning with Convolutional Neural Network"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+* (SCOPUS) __**KwangEun An**__, SungWon Lee, Young Ju Jeong, Dongmahn Seo, **Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
 
-* SungWon Lee, __**Kwang Eun An**__, Young Ju Jeong, Seok Jin Kim, Seung-Ki Ryu, Dongmahn Seo, **"A Proposal of a Real-time Pothole Detection System based on Machine Learning and Computer Vision"**, Korea Computer Congress 2018, Korea Institute of Information Scientests and Engineers, Jun. 2018.
+### Proceedings
 
-* (SCOPUS) __**KwangEun An**__, Sung Won Lee, Young Ju Jeong, Dongmahn Seo, **"Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking"**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
+* (Accepted) , **A Study of Impedance Value Selection Circuit for Controlling Sensor Sensitivity in Soil Humidity Sensor**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
+ 
+* (Accepted) , **A Study of Image Processing and Deep Learning Algorithm for Efficient of Mobile-based Pothole Detection System**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
-* __**KwangEun An**__, SungWon Lee, Seungki Ryu, Dongmahn Seo, **"Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 488-489, 12 Jan, 2018.
+* (Accepted) , **Comparison of deep learning models using in deep learning-based pothole detection system**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
-* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **"Image Processing-based Pothole Detecting System for Driving Environment"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 513-514, 12 Jan, 2018.
+* (Accepted) , **A Method of Dataset Composition in Squeezenet-based Pothole Detection**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
-* Young Ju Jeong, __**Kwang Eun An**__, Sung Won Lee, Dongmahn Seo, **"Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments"**, 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 775-776, 12 Jan, 2018.
+* (Accepted) SungWon Lee, SeokJin Kim, Jeong Han, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2019 IEEE International Conference on Consumer Electronics, pp. , Jan, 2019.
 
-### 2017
+* __**KwangEun An**__, Jeong Han, Minyoung Lee, Dongmahn Seo, **An Image Labelling System using Reinforcement Learning based on Imitating Multi-User Actions**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1616-1618, Jun. 2018.
 
-* __**KwangEun An**__, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **"Smart Crossing System Using IoT"**, 2017 IEEE International Conference on Consumer Electronics (ICCE) - CT08: Internet of Things and Internet of Everywhere, 2017
+* Jeong Han, Minyoung Lee, __**KwangEun An**__, Dongmahn Seo, **Image Collecting and User Cooperative Tagging System for Supervised Learning with Convolutional Neural Network**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2210-2212, Jun. 2018.
 
-* 김석진, 이성원, __**안광은**__, 류승기, 서동만, **모바일 기반 실시간 포트홀 탐지 어플리케이션**, 2017년 한국소프트웨어종합학술대회 논문집, pp.1766-1768, Dec. 2017
+* SungWon Lee, __**Kwang Eun An**__, Young Ju Jeong, Seok Jin Kim, Seung-Ki Ryu, Dongmahn Seo, **A Proposal of a Real-time Pothole Detection System based on Machine Learning and Computer Vision**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.7-9, Jun. 2018.
 
-* 이성원, __**안광은**__, 김석진, 류승기, 서동만, **랩탑용 실시간 포트홀 탐지 시스템**, 2017년 한국소프트웨어종합학술대회 논문집, pp.2113-2115, Dec. 2017
+* __**KwangEun An**__, SungWon Lee, Seungki Ryu, Dongmahn Seo, **Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving**, 2018 IEEE International Conference on Consumer Electronics, pp. 488-489, 12 Jan, 2018.
 
-* 정영주, __**안광은**__, 서동만, **반영구 토양습도센서 개발**, 2017년 한국소프트웨어종합학술대회 논문집, pp.1827-1829, Dec. 2017
+* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2018 IEEE International Conference on Consumer Electronics, pp. 513-514, 12 Jan, 2018.
 
-* __**안광은**__, 이성원, 김석진, 류승기, 서동만, **스마트폰 기반 모바일넷 심층 합성곱 신경망을 사용한 포트홀 탐지 시스템**, 2017년 한국소프트웨어종합학술대회 논문집, pp.901-903, Dec. 2017
+* Young Ju Jeong, __**Kwang Eun An**__, SungWon Lee, Dongmahn Seo, **Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments**, 2018 IEEE International Conference on Consumer Electronics, pp. 775-776, 12 Jan, 2018.
 
-#### 2016
+* Young Ju Jeong, __**KwangEun An**__, Dongmahn Seo, **Development of A Semi-permanent Soil Humidity Sensor**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1827-1829, Dec. 2017.
 
-* __**안광은**__, 이성원, 정영주, , 이득희, 서동만,  **스마트 횡단보도 시스템을 이용한 횡단보도 내 구역 물체 탐지 연구(A Study of Object Detection in Crosswalk Area using Smart Crosswalk System)**, 2016년 동계학술대회 논문집, 한국정보과학회, pp. 1498-1500, Dec. 2016
+* SungWon Lee, __**KwangEun An**__, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Real Time Pothole Detecting System on Laptop**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2113-2115, Dec. 2017.
 
-* 정영주, __**안광은**__, 이성원, 이민우, 서동만, **스마트 농장에서의 데이터 수집 방법(A Study to Data Aggregation on Smart Farm)**, 2016년 동계학술대회 논문집, 한국정보과학회, pp. 1495-1497, Dec. 2016
+* __**KwangEun An**__, SungWon Lee, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Smartphone-based Pothole Detecting System using MobileNet Deep Convolutional Neural Network**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.901-903, Dec. 2017.
 
-* __**KwangEun An**__, Dongmahn Seo, **"A Case Study of USB OS Usage Problems"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, April 2016
+* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seungki Ryu, Dongmahn Seo, **Realtime Pothole Detecting Application using mobile Platform**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1766-1768, Dec. 2017.
 
-* __**KwangEun An**__, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **"Smart Crosswalk System using IoT"**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, April 2016
+* __**KwangEun An**__, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **Smart Crossing System Using IoT**, 2017 IEEE International Conference on Consumer Electronics, 3rd Mar. 2017
 
-#### 2015
+* __**KwangEun An**__, SungWon Lee, Young Ju Jeong, Min Woo Lee, Deuk Hee Lee, Dongmahn Seo,  **A Study of Object Detection in Crosswalk Area using Smart Crosswalk System**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1498-1500, Dec. 2016.
 
-* __**KwangEun An**__, Jae-Young Park, Han-Na Park, Dongmahn Seo, **"A Study on use case in USB OS"**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct 2015.
+* Young Ju Jeong, __**KwangEun An`**__, SungWon Lee, Min Woo Lee, Dongmahn Seo, **A Study to Data Aggregation on Smart Farm**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1495-1497, Dec. 2016.
+
+* __**KwangEun An**__, Dongmahn Seo, **A Case Study of USB OS Usage Problems**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, Apr. 2016.
+
+* SungWon Lee, MinWoo Lee, __**KwangEun An**__, Young Ju Jeong, Joon-Min Gil,  Dongmahn Seo, **A Research of Security Method for Integrated Cloud Storage Platform**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 318-320, Apr. 2016.
+
+* Young Ju Jeong, __**KwangEun An**__, SungWon Lee, Dongmahn Seo, **A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 935-938, Apr. 2016.
+
+* __**KwangEun An**__, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **Smart Crosswalk System using IoT**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, Apr. 2016.
+
+* __**KwangEun An**__, Jae-Young Park, Han-Na Park, Dongmahn Seo, **A Study on use case in USB OS**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct. 2015.
