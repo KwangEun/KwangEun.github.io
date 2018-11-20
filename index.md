@@ -4,7 +4,9 @@
 
 ----
 
-email : [kwangeuna@gmail.com](mailto:kwangeuna@gmail.com) 
+![mail](resources/mail_icon.png) 
+
+email : [yooer10@cu.ac.kr](mailto:yooer10@cu.ac.kr)
 
 mobile : (+82) 010 2647 3007
 
@@ -22,14 +24,15 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ----
 
-M.Sc., Daegu Catholic University, Department of Computer Information and Communications, 2019.
-B.Sc., Daegu Catholic University, Major of Information Communication Convergence in School of Information Technolofy, 2017.
+* M.Sc., Daegu Catholic University, Department of Computer Information and Communications, 2019.
+
+* B.Sc., Daegu Catholic University, Major of Information Communication Convergence in School of Information Technolofy, 2017.
 
 ## Licenses
 
 ----
 
-* Engineer Informatino Processing, 15th Jul. 2016
+* Engineer Information Processing, 15th Jul. 2016
 * Linux Master Class 2, 13th Sep. 2014
 
 ## Awards and Honors
@@ -49,11 +52,27 @@ B.Sc., Daegu Catholic University, Major of Information Communication Convergence
 
 ### Skills
 
-* Image processing using OpenCV with C++, Python
+* Image processing using OpenCV with C++, Python.
 
-* Convolutional Neural Network using Tensorflow with Python
+* Convolutional Neural Network using Tensorflow with Python.
 
-* 
+* Sensor development using Arduino with C++.
+
+* Web programming using Bootstrap with HTML, CSS, Javascript.
+
+* Sensor development using Raspberry Pi with C++.
+
+* Linux kernel customizing with C.
+
+* Game development using Unity3D with C#.
+
+* Manage Linux Server with CentOS.
+
+* In&Out bound call program development using JSP with Java.
+
+* In&Out bound call active X program development using ASP with C#.
+
+* Game development using DirectX with C++.
 
 ### Workings
 
