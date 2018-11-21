@@ -4,7 +4,7 @@
 
 ----
 
-![mail](resources/mail_icon.png) 
+[![Google Scholar](./resources/32_googlescholar_icon.png)](https://scholar.google.co.kr/citations?user=OmBsq2UAAAAJ&hl=en) [![Research Gate](./resources/32_researchgate_icon.png)](https://www.researchgate.net/profile/Kwang_Eun) [![Linked In](./resources/32_linkedin_icon.png)](https://www.linkedin.com/in/kwangeun-ahn-5110b2128/) [![Github](./resources/32_github_icon.png)](https://github.com/KwangEun) [![Git Lab](./resources/32_gitlab_icon.png)](https://gitlab.com/kwangeuna)
 
 email : [yooer10@cu.ac.kr](mailto:yooer10@cu.ac.kr)
 
