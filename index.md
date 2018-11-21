@@ -12,11 +12,11 @@ mobile : (+82) 010 2647 3007
 
 Address : (38430) 521-1, Colleage of Engineering(D2) at Daegu Catholic University, Gyeongsangbuk-do, Gyeongsan, Hayang-eup, Hayang-ro, 13-13, South Korea
 
-## Infos
+## Info
 
 ----
 
-KwangEun An(안광은) is a master's course student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) since 2017 and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he worked part-time for the [LeadingI](http://www.leadingi21.com/) as an engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
+KwangEun An(안광은) is a master's course student in Major of [Computer Information Communication Convergence](http://it.cu.ac.kr) at [Daegu Catholic University](http://www.cu.ac.kr)(DCU) and a member of [Software Engineering Laboratory]() at DCU since 2015. Previously, he worked part-time for the [LeadingI](http://www.leadingi21.com/) as an engineer in support team for 2009-2010. He received his B.S. in Major of Information Communication Convergence at School of Information Technology, DCU in 2017.
 
 He is interested in Internet of Things, Image Processing, Software Engineering, Artificial Intelligence, Machine Learning, Information Security and Linux Operating System.
 
@@ -110,52 +110,54 @@ He is interested in Internet of Things, Image Processing, Software Engineering, 
 
 ### Journals
 
-* (SCOPUS) __**KwangEun An**__, SungWon Lee, Young Ju Jeong, Dongmahn Seo, **Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
+* (SCOPUS) **KwangEun An**, SungWon Lee, Young Ju Jeong, Dongmahn Seo, **Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking**, Lecture Notes in Electrical Engineering 474, pp.926-931, Jan. 2018.
 
 ### Proceedings
 
 * (Accepted) , **A Study of Impedance Value Selection Circuit for Controlling Sensor Sensitivity in Soil Humidity Sensor**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
- 
+
 * (Accepted) , **A Study of Image Processing and Deep Learning Algorithm for Efficient of Mobile-based Pothole Detection System**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
 * (Accepted) , **Comparison of deep learning models using in deep learning-based pothole detection system**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
 * (Accepted) , **A Method of Dataset Composition in Squeezenet-based Pothole Detection**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp. , Dec. 2018.
 
-* (Accepted) SungWon Lee, SeokJin Kim, Jeong Han, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2019 IEEE International Conference on Consumer Electronics, pp. , Jan, 2019.
+* (Accepted) SungWon Lee, SeokJin Kim, Jeong Han, **KwangEun An**, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2019 IEEE International Conference on Consumer Electronics, pp. , Jan, 2019.
 
-* __**KwangEun An**__, Jeong Han, Minyoung Lee, Dongmahn Seo, **An Image Labelling System using Reinforcement Learning based on Imitating Multi-User Actions**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1616-1618, Jun. 2018.
+* **KwangEun An**, Jeong Han, Minyoung Lee, Dongmahn Seo, **An Image Labelling System using Reinforcement Learning based on Imitating Multi-User Actions**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1616-1618, Jun. 2018.
 
-* Jeong Han, Minyoung Lee, __**KwangEun An**__, Dongmahn Seo, **Image Collecting and User Cooperative Tagging System for Supervised Learning with Convolutional Neural Network**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2210-2212, Jun. 2018.
+* Jeong Han, Minyoung Lee, **KwangEun An**, Dongmahn Seo, **Image Collecting and User Cooperative Tagging System for Supervised Learning with Convolutional Neural Network**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2210-2212, Jun. 2018.
 
-* SungWon Lee, __**Kwang Eun An**__, Young Ju Jeong, Seok Jin Kim, Seung-Ki Ryu, Dongmahn Seo, **A Proposal of a Real-time Pothole Detection System based on Machine Learning and Computer Vision**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.7-9, Jun. 2018.
+* SungWon Lee, **Kwang Eun An**, Young Ju Jeong, Seok Jin Kim, Seung-Ki Ryu, Dongmahn Seo, **A Proposal of a Real-time Pothole Detection System based on Machine Learning and Computer Vision**, 2018 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.7-9, Jun. 2018.
 
-* __**KwangEun An**__, SungWon Lee, Seungki Ryu, Dongmahn Seo, **Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving**, 2018 IEEE International Conference on Consumer Electronics, pp. 488-489, 12 Jan, 2018.
+* **KwangEun An**, SungWon Lee, Seungki Ryu, Dongmahn Seo, **Detecting a Pothole Using Deep Convolutional Neural Network Models for an Adaptive Shock Observing in a Vehicle Driving**, 2018 IEEE International Conference on Consumer Electronics, pp. 488-489, 12 Jan, 2018.
 
-* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2018 IEEE International Conference on Consumer Electronics, pp. 513-514, 12 Jan, 2018.
+* SungWon Lee, SeokJin Kim, **KwangEun An**, Seung-Ki Ryu, Dongmahn Seo, **Image Processing-based Pothole Detecting System for Driving Environment**, 2018 IEEE International Conference on Consumer Electronics, pp. 513-514, 12 Jan, 2018.
 
-* Young Ju Jeong, __**Kwang Eun An**__, SungWon Lee, Dongmahn Seo, **Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments**, 2018 IEEE International Conference on Consumer Electronics, pp. 775-776, 12 Jan, 2018.
+* Young Ju Jeong, **Kwang Eun An**, SungWon Lee, Dongmahn Seo, **Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments**, 2018 IEEE International Conference on Consumer Electronics, pp. 775-776, 12 Jan, 2018.
 
-* Young Ju Jeong, __**KwangEun An**__, Dongmahn Seo, **Development of A Semi-permanent Soil Humidity Sensor**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1827-1829, Dec. 2017.
+* Young Ju Jeong, **KwangEun An**, Dongmahn Seo, **Development of A Semi-permanent Soil Humidity Sensor**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1827-1829, Dec. 2017.
 
-* SungWon Lee, __**KwangEun An**__, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Real Time Pothole Detecting System on Laptop**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2113-2115, Dec. 2017.
+* SungWon Lee, **KwangEun An**, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Real Time Pothole Detecting System on Laptop**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.2113-2115, Dec. 2017.
 
-* __**KwangEun An**__, SungWon Lee, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Smartphone-based Pothole Detecting System using MobileNet Deep Convolutional Neural Network**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.901-903, Dec. 2017.
+* **KwangEun An**, SungWon Lee, SeokJin Kim, Seungki Ryu, Dongmahn Seo, **Smartphone-based Pothole Detecting System using MobileNet Deep Convolutional Neural Network**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.901-903, Dec. 2017.
 
-* SungWon Lee, SeokJin Kim, __**KwangEun An**__, Seungki Ryu, Dongmahn Seo, **Realtime Pothole Detecting Application using mobile Platform**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1766-1768, Dec. 2017.
+* SungWon Lee, SeokJin Kim, **KwangEun An**, Seungki Ryu, Dongmahn Seo, **Realtime Pothole Detecting Application using mobile Platform**, 2017 Proceedings of Korea Software Congress, Korea Institute of Information Scientests and Engineers, pp.1766-1768, Dec. 2017.
 
-* __**KwangEun An**__, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **Smart Crossing System Using IoT**, 2017 IEEE International Conference on Consumer Electronics, 3rd Mar. 2017
+* **KwangEun An**, Young Ju Jeong, SungWon Lee, Dongmahn Seo, **Smart Crossing System Using IoT**, 2017 IEEE International Conference on Consumer Electronics, 3rd Mar. 2017
 
-* __**KwangEun An**__, SungWon Lee, Young Ju Jeong, Min Woo Lee, Deuk Hee Lee, Dongmahn Seo,  **A Study of Object Detection in Crosswalk Area using Smart Crosswalk System**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1498-1500, Dec. 2016.
+* **KwangEun An**, SungWon Lee, Young Ju Jeong, Min Woo Lee, Deuk Hee Lee, Dongmahn Seo,  **A Study of Object Detection in Crosswalk Area using Smart Crosswalk System**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1498-1500, Dec. 2016.
 
-* Young Ju Jeong, __**KwangEun An`**__, SungWon Lee, Min Woo Lee, Dongmahn Seo, **A Study to Data Aggregation on Smart Farm**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1495-1497, Dec. 2016.
+* Young Ju Jeong, **KwangEun An**, SungWon Lee, Min Woo Lee, Dongmahn Seo, **A Study to Data Aggregation on Smart Farm**, 2016 Proceedings of Korea Computer Congress, Korea Institute of Information Scientests and Engineers, pp. 1495-1497, Dec. 2016.
 
-* __**KwangEun An**__, Dongmahn Seo, **A Case Study of USB OS Usage Problems**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, Apr. 2016.
+* **KwangEun An**, Dongmahn Seo, **A Case Study of USB OS Usage Problems**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, Apr. 2016.
 
-* SungWon Lee, MinWoo Lee, __**KwangEun An**__, Young Ju Jeong, Joon-Min Gil,  Dongmahn Seo, **A Research of Security Method for Integrated Cloud Storage Platform**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 318-320, Apr. 2016.
+* SungWon Lee, MinWoo Lee, **KwangEun An**, Young Ju Jeong, Joon-Min Gil,  Dongmahn Seo, **A Research of Security Method for Integrated Cloud Storage Platform**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 318-320, Apr. 2016.
 
-* Young Ju Jeong, __**KwangEun An**__, SungWon Lee, Dongmahn Seo, **A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 935-938, Apr. 2016.
+* Young Ju Jeong, **KwangEun An**, SungWon Lee, Dongmahn Seo, **A Proposal of Smart Farm Watering Automation System based on IoT and Pattern Learning**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 935-938, Apr. 2016.
 
-* __**KwangEun An**__, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **Smart Crosswalk System using IoT**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, Apr. 2016.
+* **KwangEun An**, Jae Sung Park, Hong Jun Choi, Jong Sup Lee, Young Ju Jeong, Dongmahn Seo, **Smart Crosswalk System using IoT**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 931-934, Apr. 2016.
 
-* __**KwangEun An**__, Jae-Young Park, Han-Na Park, Dongmahn Seo, **A Study on use case in USB OS**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct. 2015.
+* **KwangEun An**, Dongmahn Seo, **A Case Study of USB OS Usage Problems**, 2016 Spring Conference on Korea Information Processing Society, Vol. 23, No. 1, pp. 977-979, Apr. 2016.
+
+* **KwangEun An**, Jae-Young Park, Han-Na Park, Dongmahn Seo, **A Study on use case in USB OS**, 2015 Fall Conference on Korea Information Processing Society, Vol. 22, No. 22, pp. 65-68, Oct. 2015.
