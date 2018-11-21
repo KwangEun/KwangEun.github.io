@@ -1,4 +1,4 @@
-# Biography
+# Curriculum Vitae
 
 ## Contacts
 
